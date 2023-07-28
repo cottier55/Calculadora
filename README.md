@@ -2,7 +2,9 @@
 
 ![Logo del Proyecto](https://st2.depositphotos.com/1552219/9330/i/450/depositphotos_93303606-stock-photo-calculator-options-counter.jpg)
 
-El proyecto es una calculadora básica desarrollada con HTML5, JavaScript y CSS para realizar operaciones matemáticas simples en un navegador web. La interfaz es intuitiva y responsive, permitiendo su uso en diferentes dispositivos
+El proyecto es una calculadora básica desarrollada con HTML5, JavaScript y CSS para realizar operaciones matemáticas simples en un navegador web. La interfaz es intuitiva y responsive, permitiendo su uso en diferentes dispositivos.
+
+[Ver video](video/calculadora.mp4)
 
 ## Tecnologías
 
