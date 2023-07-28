@@ -1,4 +1,4 @@
-# Calculadora
+# Calculadora📟
 
 ![Logo del Proyecto](https://st2.depositphotos.com/1552219/9330/i/450/depositphotos_93303606-stock-photo-calculator-options-counter.jpg)
 
