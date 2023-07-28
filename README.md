@@ -1,17 +1,8 @@
-# Proyecto Increíble
+# Calculadora
 
-![Logo del Proyecto](ruta/al/logo.jpg)
+![Logo del Proyecto](https://st2.depositphotos.com/1552219/9330/i/450/depositphotos_93303606-stock-photo-calculator-options-counter.jpg)
 
 Un breve párrafo que describe el proyecto y su propósito.
-
-## Contenido
-
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Problemas](#problemas)
-- [Tecnologías](#tecnologías)
-- [Licencia](#licencia)
 
 ## Instalación
 
