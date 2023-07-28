@@ -13,7 +13,7 @@ El proyecto es una calculadora básica desarrollada con HTML5, JavaScript y CSS 
 ## Integrantes 
 
 Este proyecto lo realizamos en grupo:
-- [👩‍💻](https://github.com/usuario1)
+- [👩‍💻 Solange Cottier](https://github.com/cottier55)
 - [@Usuario2](https://github.com/usuario2)
 - [@Usuario3](https://github.com/usuario3)
 - [Nombre Completo](mailto:correo@example.com)
