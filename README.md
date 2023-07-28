@@ -4,6 +4,7 @@
 
 El proyecto es una calculadora básica desarrollada con HTML5, JavaScript y CSS para realizar operaciones matemáticas simples en un navegador web. La interfaz es intuitiva y responsive, permitiendo su uso en diferentes dispositivos
 
+[Ver video](Calculadora Video.mp4)
 
 ## Tecnologías
 
