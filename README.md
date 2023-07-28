@@ -16,5 +16,7 @@ Este proyecto lo realizamos en grupo:
 - [Solange Cottier](https://github.com/cottier55)
 - [Juan Ignacio Pagnanini](https://github.com/juanipagnanini)
 - [Marcelo Fracassi](https://github.com/MarceloFracassi)
-- [Nombre Completo](mailto:correo@example.com)
+- [Luca Bruzzo](https://github.com/BruzzoLuca)
+- [Lara Cristofanelli](https://github.com/Lara-Sofia)
+- [Santiago Guarde](https://github.com/SantiagoGuarde)
 
