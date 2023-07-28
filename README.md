@@ -13,5 +13,8 @@ El proyecto es una calculadora básica desarrollada con HTML5, JavaScript y CSS 
 ### Integrantes
 
 Este proyecto lo realizamos en grupo:
-https://github.com/juanipagnanini
+- [@Juan Ignacio Pagnanini](https://github.com/juanipagnanini)
+- [@Usuario2](https://github.com/usuario2)
+- [@Usuario3](https://github.com/usuario3)
+- [Nombre Completo](mailto:correo@example.com)
 
