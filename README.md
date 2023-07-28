@@ -13,10 +13,10 @@ El proyecto es una calculadora básica desarrollada con HTML5, JavaScript y CSS 
 ## Integrantes 
 
 Este proyecto lo realizamos en grupo:
-👩‍💻[Solange Cottier](https://github.com/cottier55)
-👨‍💻[Juan Ignacio Pagnanini](https://github.com/juanipagnanini)
-👨‍💻[Marcelo Fracassi](https://github.com/MarceloFracassi)
-👨‍💻[Luca Bruzzo](https://github.com/BruzzoLuca)
-👩‍💻[Lara Cristofanelli](https://github.com/Lara-Sofia)
-👨‍💻[Santiago Guarde](https://github.com/SantiagoGuarde)
+-👩‍💻[Solange Cottier](https://github.com/cottier55)
+-👨‍💻[Juan Ignacio Pagnanini](https://github.com/juanipagnanini)
+-👨‍💻[Marcelo Fracassi](https://github.com/MarceloFracassi)
+-👨‍💻[Luca Bruzzo](https://github.com/BruzzoLuca)
+-👩‍💻[Lara Cristofanelli](https://github.com/Lara-Sofia)
+-👨‍💻[Santiago Guarde](https://github.com/SantiagoGuarde)
 
