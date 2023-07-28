@@ -4,7 +4,7 @@
 
 El proyecto es una calculadora básica desarrollada con HTML5, JavaScript y CSS para realizar operaciones matemáticas simples en un navegador web. La interfaz es intuitiva y responsive, permitiendo su uso en diferentes dispositivos
 
-[![Demostración del Proyecto](ruta/a/miniatura.jpg)](https://www.loom.com/share/5a745ff2649e4ae7aec10d920fdb2ed5)
+[![Demostración del Proyecto](D:\sol\PORTFOLIO\Calculadora\Calculadora\video)]
 
 ## Tecnologías
 
