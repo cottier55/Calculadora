@@ -4,7 +4,10 @@
 
 El proyecto es una calculadora básica desarrollada con HTML5, JavaScript y CSS para realizar operaciones matemáticas simples en un navegador web. La interfaz es intuitiva y responsive, permitiendo su uso en diferentes dispositivos
 
-[![Demostración del Proyecto](D:\sol\PORTFOLIO\Calculadora\Calculadora\video)]
+<video width="640" height="360" controls>
+  <source src="" type="video/mp4">
+  Tu navegador no admite la etiqueta de video.
+</video>
 
 ## Tecnologías
 
