@@ -4,14 +4,6 @@
 
 El proyecto es una calculadora básica desarrollada con HTML5, JavaScript y CSS para realizar operaciones matemáticas simples en un navegador web. La interfaz es intuitiva y responsive, permitiendo su uso en diferentes dispositivos
 
-<video width="640" height="360" controls>
-  <source src="
-
-https://github.com/cottier55/Calculadora/assets/102706062/6f9ed379-eba7-4696-96d8-3f7a75537225
-
-" type="video/mp4">
-  Tu navegador no admite la etiqueta de video.
-</video>
 
 ## Tecnologías
 
